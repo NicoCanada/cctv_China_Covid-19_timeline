@@ -1,8 +1,8 @@
-h1 中国发布新冠肺炎疫情信息、推进疫情防控国际合作纪事
-h2 from https://www.weibo.com/u/2656274875 
-h2 address: https://www.weibo.com/ttarticle/p/show?id=2309404490786833039443
-h2 published time: 04-06 18:54 Beijing time
-h2 data retrived: 2020/04/08 04:00 am Beijing time
+# 中国发布新冠肺炎疫情信息、推进疫情防控国际合作纪事
+## from https://www.weibo.com/u/2656274875 
+## address: https://www.weibo.com/ttarticle/p/show?id=2309404490786833039443
+## published time: 04-06 18:54 Beijing time
+## data retrived: 2020/04/08 04:00 am Beijing time
 
 新冠肺炎疫情，是新中国成立以来发生的传播速度最快、感染范围最广、防控难度最大的一次重大突发公共卫生事件。面对来势汹汹的疫情，在以习近平同志为核心的中共中央坚强领导下，中国采取最全面、最严格、最彻底的防控举措，14亿人民同舟共济，众志成城，同疫情展开顽强斗争，付出巨大代价和牺牲。在全国人民共同努力下，中国疫情防控形势持续向好、生产生活秩序加快恢复的态势不断巩固和拓展。
 
